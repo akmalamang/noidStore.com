@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.tambah {
+  transform: rotate(45deg) translateY(5px);
+}
+.tambah-2 {
+  transform: rotate(-45deg) translateY(-12px) translateX(7px);
+}
+
+.anim {
+  transform: scaleY(1);
+}
